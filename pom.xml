@@ -138,6 +138,7 @@
           <plugin>
             <groupId>io.fabric8</groupId>
             <artifactId>fabric8-maven-plugin</artifactId>
+            <version>3.5.22</version>
             <executions>
               <execution>
                 <id>fmp</id>
@@ -159,7 +160,7 @@
             <resources>
               <labels>
                 <all>
-                  <space>sprint135</space>
+                  <space>SPACE_WITH_UNDERSCORE</space>
                 </all>
               </labels>
             </resources>
